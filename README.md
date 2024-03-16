@@ -1,9 +1,7 @@
-# CSC_1004_Python_ImageClassification
+#Python_ImageClassification
 Tutorial of Python Project
 
 Student name: Yulun Wu
-Student ID: 122090589
-Github: https://github.com/albertkkk/CSC_1004_Python_ImageClassification
  
 (Mention: This repository is different from the one I write in bi-weekly report, but I have already add TA into collaborator)
 
